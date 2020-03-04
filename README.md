@@ -1,6 +1,6 @@
 # API-FOOTBALL API
 
-[![npm (scoped)](https://img.shields.io/npm/v/api-football.svg)
+![npm (scoped)](https://img.shields.io/npm/v/api-football.svg)
 
 ## Installation
 
