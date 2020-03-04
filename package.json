@@ -1,7 +1,7 @@
 {
   "name": "api-football",
   "version": "1.0.0",
-  "description": "",
+  "description": "API-FOOTBALL API wrapper https://api-football.com",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -17,9 +17,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:yuledev/api-football"
   },
-  "author": "Vincenzo Ninni <vincenzo.ninni@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/yuledev/api-football/issues"
+  },
+  "author": {
+    "name": "Vincenzo Ninni",
+    "email": "<vincenzo.ninni@gmail.com>",
+    "url": "https://github.com/yuledev/"
+  },
   "license": "MIT License",
   "dependencies": {
     "request": "^2.88.2"
