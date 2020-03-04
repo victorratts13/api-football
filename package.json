@@ -1,0 +1,32 @@
+{
+  "name": "api-football",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "keywords": [
+    "api-football",
+    "sports",
+    "api",
+    "football"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Vincenzo Ninni <vincenzo.ninni@gmail.com>",
+  "license": "MIT License",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "mocha": "^7.1.0"
+  }
+}
